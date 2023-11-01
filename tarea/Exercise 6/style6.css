@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: white;
+}
+
+h1, h4 {
+    color: aqua;
+}
+p {
+    color: rgb(215, 154, 226);
+}

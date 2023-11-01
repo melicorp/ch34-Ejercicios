@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h3 {
+    color: aqua;
+}
+h4 { 
+color: aliceblue;
+}
+p {
+    color: rgb(215, 154, 226);
+}
